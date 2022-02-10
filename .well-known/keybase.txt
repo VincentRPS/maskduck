@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/maskduck
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aduckuwu.github.io
+  * I am maskduck (https://keybase.io/maskduck) on keybase.
+  * I have a public key with fingerprint BE7B 761D AC8B A45A 3BE3  C3EB B85C A68F 1560 9ED4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b784057a525df86deb27a973f9ef1984a371a822c70f7160218de4d537f0c26f0a",
+      "fingerprint": "be7b761dac8ba45a3be3c3ebb85ca68f15609ed4",
+      "host": "keybase.io",
+      "key_id": "b85ca68f15609ed4",
+      "kid": "0101c43d52c0451d4ace378e09d00ce2393bc51538adcf5384cddd179b5528e0aec50a",
+      "uid": "13989626fbc344d8e8de0c984fd4e019",
+      "username": "maskduck"
+    },
+    "service": {
+      "hostname": "aduckuwu.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1644468332,
+  "expire_in": 157680000,
+  "prev": "84cbe10eda2756a79dd2b3fe64b823a0fb54495e471d83f91b5e4a3ab86a707e",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUn1QVFUc3eUrRFhpiCQYdHpQDgzC+35vgRFBmkFmZ9qgbRwR8d1379t9ruwu
+u28XFtwciJwpP1CaICIoAkIJLWBs1MLC0DKooGG0QMDPGUIcLBopc6y3JP91//nd
++7vnnHvOvfdIRKAmVHt6x0d10btax7XDvwINCHrHUYUBO/Ri6VWYFS0XtAcil1Ji
+lSGWjuEEiQOOp3GGExiSgRLPQgRITtBzlKRHEqHnaYHiCIEnSZHDJY5gcZLgIaIh
+Q3ESLpKshAtYCibJNjNyOpyyTVFlAeIAxxJQEHkg0IxAAUSJFAKAZ0SB5SWCYXE9
+grRKtNhdfoZqDggulCrb1Z66KFm29z/4Fd84IdIUZEgRpxkC0oKIKI5HuB7iuIhI
+Sk8BkSEYihegKKmFFiGEBKcHDEOqMAGJzLJv97IcQel5PatmASJF05BHakJcVLNL
+kEY4ofcDXchpE0qRii4VXFboFq2YLwVTux5ZRP6L9Sd5jBD82+5yd6pZVixu8F8q
+h9Ou2EX7HnXfoigOV7qfr3gdfkI5AiWPpUqAbIPqbaoMD3K6ZLsNSydUpKjIfm2C
+pWma5SmKTMFQhUN2ohLZj2A4lsfV4T8HeVRJvoQWASJwBAWSY1iB00NIAkpCLA14
+khJwCTA0rWcQzRGQV1+bAOpcoATAq2CcQ5g/XZnNjqWTtGpUMKuiLtlsExS3E2G+
+sDcCqCCNNlQT//SzQeeqPPE9Bzq2Z9z8+s7KFwwO8P8/TdiqyJXOp9sjNbVx2QM5
+hnKqe07XlGd+pW3NvMmxryv3JyUmD9+U2XKy8reeI44bB3N/8GmzGwMOEu8/Zdpc
+EKTprh0tHWned3Y+a7V2dNvSxEIf+qQ6vwKaWgp32rV94zWXlvZeEQN1p+dxg9K4
+AZs/U9zcd7zytmdusLPryuGCQSvW05k0NbNmIndq3NjWxPPFo0bLjt56d44x480Q
+T87Lmt3lZxc3BtOFH9/Xfe+9OnvmwWJh/zgZ4ms/mXU/pkN3ObY18g/v5F/a3tWL
+nxE1245ddmcGbrA05j8K992c/fzoq7FlESeKh6K+Gyv9NnhqeuCfQ+T595JuGYhV
+iu7t8cyW2YyR6omiockni9jnO8InhbtBUUZD/TxYn9AeavfouvYPb94a5mOkOu8z
+X7XENYo3puLGhi78fcdgN9avlcpC+xvvDS8lXLxwSvEM1CUGvFaxc9ft6y/sH9l7
+r8qQdstt+9CZW9mQpok5frfLSyeeijoa8TB7Wjo/ChpG6i/V0ElNSXVfNB7ayoTE
+N2yZvNZeXvHWQkJ3Xenu2NqX0gYKvgw5NJn43AN3e4Lu2lrjYPO59X8ee6LsYnJW
+dnJ8a1LTpoJ+KtrcXzEXVuTrN+liJC8e/XDdQPiLsz/mN23pNKZaZ66bq0096TPy
+B78faHv38NUF+yO4sbrX+M0vecnW103RJ0ot02M/r4v6Fw==
+=Moto
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maskduck
+
+==================================================================
