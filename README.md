@@ -5,8 +5,6 @@ i am maskduck and nice to meet you. <br>
 
 i am currently working on some discord bot, most of them are open source. <br>
 
-for me, it is 11:56 January 24, 2022 right now. 
-
 # how to contact me
 
 you can contact me on the following account(s): <br>
