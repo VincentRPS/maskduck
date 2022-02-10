@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aduckuwu/aduckuwu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# hi there!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+i am maskduck and nice to meet you. <br>
 
-### Markdown
+i am currently working on some discord bot, most of them are open source. <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+for me, it is 11:56 January 24, 2022 right now. 
 
-```markdown
-Syntax highlighted code block
+# how to contact me
 
-# Header 1
-## Header 2
-### Header 3
+you can contact me on the following account(s): <br>
+ - [my discord server](https://discord.gg/qGnBpw6Cbm)
+ - [MaskDuck#9999 on discord](https://discord.com/users/716134528409665586)
+ - [MaskDuck1 on twitter](https://twitter.com/MaskDuck1)
+ - [u/maskduck on reddit](https://reddit.com/user/maskduck)
 
-- Bulleted
-- List
+# how to check if someone is me
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aduckuwu/aduckuwu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ask them to shoot a message from one of social accounts listed below. if they can't, they are probably an impersonator.
+    
