@@ -1,18 +1,6 @@
-# hi there!
+i personally love pineapple on pizza. i also love online communities. i love coding.
+# tools i use
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-i am maskduck and nice to meet you. <br>
-
-i am currently working on some discord bot, most of them are open source. <br>
-
-# how to contact me
-
-you can contact me on the following account(s): <br>
- - [my discord server](https://discord.gg/qGnBpw6Cbm)
- - [MaskDuck#9999 on discord](https://discord.com/users/716134528409665586)
- - [MaskDuck1 on twitter](https://twitter.com/MaskDuck1)
- - [u/maskduck on reddit](https://reddit.com/user/maskduck)
-
-# how to check if someone is me
-
-ask them to shoot a message from one of social accounts listed below. if they can't, they are probably an impersonator.
-    
+# my social account
+[![Reddit](https://img.shields.io/badge/u%2Fmaskduck-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/maskduck) [![Discord](https://img.shields.io/badge/MaskDuck%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/716134528409665586/) [![Twitter](https://img.shields.io/badge/MaskDuck1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MaskDuck1)
