@@ -9,7 +9,7 @@ you may see my full resume [here](https://resume.maskduck.ninja) (*but you shoul
   
 
 # github analytics
-![MaskDuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskduck&show_icons=true&hide=stars&line_height=24)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![MaskDuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskduck&show_icons=true&hide=stars&line_height=24) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
