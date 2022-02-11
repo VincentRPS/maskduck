@@ -33,7 +33,8 @@ i code in python most. <br>
 [![Reddit](https://img.shields.io/badge/u%2Fmaskduck-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/maskduck) [![Discord](https://img.shields.io/badge/MaskDuck%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/716134528409665586/) [![Twitter](https://img.shields.io/badge/MaskDuck1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MaskDuck1) [![GitHub](https://img.shields.io/badge/MaskDuck-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maskduck)
 
 # wanna donate to support whatever i do?
-please **DON'T**! imagine when there isn't any water anymore, life will harder. please prevent it by donating to [teamseas](https://teamseas.org). thanks <3
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+please **DON'T**! imagine when there isn't any water anymore, life will harder. please prevent it by donating to [teamseas](https://teamseas.org). thanks <3 <br>
+
+![abc](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
 
