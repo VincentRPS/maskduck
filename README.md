@@ -9,9 +9,15 @@ you may see my full resume [here](https://resume.maskduck.ninja) (*but you shoul
   
 
 # github analytics
-![MaskDuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskduck&show_icons=true&hide=stars&line_height=24) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+idk why should you see this, but here you are. welcome to my dumb github stats.
+## contribute stats
+i sometimes contribute to some random projects. <br>
+<br>
+![MaskDuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskduck&show_icons=true&hide=stars&line_height=24)
+## lang stats
+i code in python most. <br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maskduck&layout=compact)
 
 # languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
