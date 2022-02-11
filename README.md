@@ -4,11 +4,14 @@
 ![image](https://user-images.githubusercontent.com/70831061/153582386-1f1180cb-7ad5-45b5-bab6-83149bac0982.png)
 
 
-i personally love pineapple on pizza. i also love online communities. i love coding. <br>
-in my free time, i develop things, and eat, cuz why not? <br>
-i am a python enthusiast. #PythonGang <br>
-my email is [`i-am@maskduck.ninja`](mailto://i-am@maskduck.ninja), shoot me an email and i will try to respond. <br>
-you may see my full resume [here](http://resume.maskduck.ninja) (*but you shouldn't see it*)
+🐍 i personally love pineapple on pizza. i also love online communities. i love coding. <br>
+🐍 in my free time, i develop things, and eat, cuz why not? <br>
+🐍 i am a python enthusiast. #PythonGang <br>
+🐍 you can DM me about anything you love, as long as it isn't NSFW or NSFL. but not the email. <br>
+🐍 my pronouns is any/all. <br>
+🐍 my email is [`i-am@maskduck.ninja`](mailto://i-am@maskduck.ninja), shoot me an email and i will try to respond. <br>
+🐍 you may see my full resume [here](http://resume.maskduck.ninja) (*but you shouldn't see it*) <br>
+🐍 fun fact: light mode is actually better than dark mode.
 
 # github analytics
 idk why should you see this, but here you are. welcome to my dumb github stats.
