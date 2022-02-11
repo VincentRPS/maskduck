@@ -37,7 +37,6 @@ i code in python most. <br>
 
 # wanna donate to support whatever i do?
 please **DON'T**! imagine when there isn't any water anymore, life will harder. please prevent it by donating to [teamseas](https://teamseas.org). thanks <3 <br>
-
 ![abc](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/imgs/bottom_header.svg)
 
 
