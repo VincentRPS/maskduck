@@ -4,7 +4,7 @@
 i personally love pineapple on pizza. i also love online communities. i love coding. <br>
 in my free time, i develop things, and eat, cuz why not? <br>
 i am a python enthusiast. #PythonGang <br>
-i am a **hobbyist** developer **(NOT AVALIBLE FOR HIRE)**
+i am a **hobbyist** developer **(NOT AVALIBLE FOR HIRE)** <br>
 my email is [`i-am@maskduck.ninja`](mailto://i-am@maskduck.ninja), shoot me an email and i will try to respond. <br>
 
 # github analytics
