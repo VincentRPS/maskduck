@@ -27,6 +27,11 @@ i code in python most. <br>
 ## trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=maskduck&row=1)
 
+# blog posts
+it is also very dumb, but here you are. welcome to my dumb blog showcase. <br>
+fun fact: blog info is purged [here](https://dev.to/maskduck)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
