@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/status/716134528409665586&maxAge=0"></image> <img src="https://img.shields.io/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/playing/716134528409665586&maxAge=0"></image> <img src="https://img.shields.io/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/vscode/716134528409665586&maxAge=0"></image> <img src="https://img.shields.io/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/spotify/716134528409665586&maxAge=0"></image>
 
 ![image](https://user-images.githubusercontent.com/70831061/153582386-1f1180cb-7ad5-45b5-bab6-83149bac0982.png)
-
+<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/716134528409665586?theme=light&borderRadius=5px">
 
 🐍 i personally love pineapple on pizza. i also love online communities. i love coding. <br>
 🐍 in my free time, i develop things, and eat, cuz why not? <br>
@@ -11,8 +11,7 @@
 🐍 my pronouns is any/all. <br>
 🐍 my email is [`i-am@maskduck.ninja`](mailto://i-am@maskduck.ninja), shoot me an email and i will try to respond. <br>
 🐍 you may see my full resume [here](http://resume.maskduck.ninja) (*but you shouldn't see it*) <br>
-🐍 fun fact: light mode is actually better than dark mode.
-
+🐍 fun fact: light mode is actually better than dark 
 # github analytics
 idk why should you see this, but here you are. welcome to my dumb github stats.
 ## contribute stats
