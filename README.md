@@ -31,6 +31,7 @@ i code in python most. <br>
 it is also very dumb, but here you are. welcome to my dumb blog showcase. <br>
 fun fact: blog info is purged [here](https://dev.to/maskduck)
 <!-- BLOG-POST-LIST:START -->
+- [hi!](https://dev.to/maskduck/hi-70l)
 <!-- BLOG-POST-LIST:END -->
 
 # languages
