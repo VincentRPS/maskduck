@@ -1,10 +1,11 @@
-# hi there!
+# hi there 👋🏻
 <img src="https://shields-production.up.railway.app/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/status/716134528409665586"></image> <img src="https://shields-production.up.railway.app/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/playing/716134528409665586"></image> <img src="https://shields-production.up.railway.app/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/vscode/716134528409665586"></image> <img src="https://shields-production.up.railway.app/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/spotify/716134528409665586"></image>
 
 ![image](https://user-images.githubusercontent.com/70831061/153582386-1f1180cb-7ad5-45b5-bab6-83149bac0982.png)
 <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/716134528409665586?theme=light&borderRadius=5px">
 
 🐍 i personally love pineapple on pizza. i also love online communities. i love coding. <br>
+🐍 i break code for a living. <br>
 🐍 in my free time, i develop things, and eat, cuz why not? <br>
 🐍 i am a python enthusiast. #PythonGang <br>
 🐍 you can DM me about anything you love, as long as it isn't NSFW or NSFL. but not the email. <br>
