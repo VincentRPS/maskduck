@@ -22,9 +22,10 @@ i sometimes contribute to some random projects. <br>
 <br>
 ![MaskDuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=maskduck&show_icons=true&hide=stars&line_height=24)
 ## lang stats
-i code in python most. <br>
+i only code in python. <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maskduck&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maskduck&layout=compact) <br>
+*if you are asking why is there a bit of html this is the part to serve this github pages, thanks*
 
 ## trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=maskduck&row=1)
