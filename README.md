@@ -1,6 +1,4 @@
 # hi there 👋🏻
-**CURRENTLY UNAVALIBLE DUE TO EXAM.** <br>
-
 <img src="https://shields-production.up.railway.app/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/status/716134528409665586"></image> <img src="https://shields-production.up.railway.app/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/playing/716134528409665586"></image> <img src="https://shields-production.up.railway.app/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/vscode/716134528409665586"></image> <img src="https://shields-production.up.railway.app/endpoint?url=https://loathsomeparchedharddrive.maskduck.repl.co/spotify/716134528409665586"></image>
 
 ![image](https://user-images.githubusercontent.com/70831061/153582386-1f1180cb-7ad5-45b5-bab6-83149bac0982.png)
