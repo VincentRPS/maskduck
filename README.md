@@ -15,6 +15,8 @@
 🐍 fun fact: light mode is actually better than dark 
 # github analytics
 idk why should you see this, but here you are. welcome to my dumb github stats.
+## featured works
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaskDuck&repo=nextcord-ext-activities&show-owner=true)](https://github.com/MaskDuck/nextcord-ext-activities)
 ## contribute stats
 i sometimes contribute to some random projects. <br>
 <br>
