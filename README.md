@@ -7,7 +7,7 @@
 🐍 i personally love pineapple on pizza. i also love online communities. i love coding. <br>
 🐍 i break code for a living. <br>
 🐍 in my free time, i develop things, and eat, cuz why not? <br>
-🐍 i am a python enthusiast. #PythonGang <br>
+🐍 i am a python enthusiast. currently learn nim, then maybe learn harder language like javascript or typescript. and then maybe c++ & c#, who knows? #PythonGang <br>
 🐍 you can DM me about anything you love, as long as it isn't NSFW or NSFL. but not the email. <br>
 🐍 my pronouns is any/all. <br>
 🐍 my email is [`i-am@maskduck.ninja`](mailto://i-am@maskduck.ninja), shoot me an email and i will try to respond. <br>
