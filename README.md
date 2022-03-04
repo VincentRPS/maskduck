@@ -18,6 +18,7 @@ idk why should you see this, but here you are. welcome to my dumb github stats.
 ## featured works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaskDuck&repo=nextcord-ext-activities&show-owner=true)](https://github.com/MaskDuck/nextcord-ext-activities)
 ## active stats
+![helo](https://github-readme-streak-stats.herokuapp.com?user=MaskDuck)
 ## contribute stats
 i sometimes contribute to some random projects. <br>
 <br>
