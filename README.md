@@ -10,7 +10,7 @@
 🐍 i am a python enthusiast. currently learn nim, then maybe learn harder language like javascript or typescript. and then maybe c++ & c#, who knows? #PythonGang <br>
 🐍 you can DM me about anything you love, as long as it isn't NSFW or NSFL. but not the email. <br>
 🐍 my pronouns is any/all. <br>
-🐍 my email is [`i-am@maskduck.ninja`](mailto://i-am@maskduck.ninja), shoot me an email and i will try to respond. <br>
+🐍 my email is [`it-is@too-obvious-that.maskduck.is-a.dev`](mailto://it-is@too-obvious-that.maskduck.is-a.dev), shoot me an email and i will try to respond. <br>
 🐍 you may see my full resume [here](http://resume.maskduck.ninja) (*but you shouldn't see it*) <br>
 🐍 fun fact: light mode is actually better than dark 
 # github analytics
